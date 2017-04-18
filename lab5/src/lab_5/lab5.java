@@ -22,7 +22,8 @@ public class lab5 extends JFrame{
         Checkbox cl2 = new Checkbox("Зеленый",colors,false);
         Checkbox cl3 = new Checkbox("Синий",colors,false);
         JMenuItem mPaint = new JMenuItem("Paint");
-
+        
+        // создание окна
         JFrame f = new JFrame("Лабораторная №5");
 
         JMenuBar mFile = new JMenuBar();
