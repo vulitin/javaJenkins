@@ -1,5 +1,5 @@
 package lab_5;
-
+//здесь был Илья
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
